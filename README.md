@@ -12,4 +12,5 @@ The output is broken down into 3 parts (or steps):
 3. the checked off problems in step 1 are repeated and the shortcode for a form is rendered
 
 Note: depending on your theme setup, JS and CSS may need tweaking to work properly.
+
 Note2: Here's a CodePen of it: https://codepen.io/forlogos/pen/WNmEQxx
